@@ -1,0 +1,108 @@
+Granola Coco
+200 grs 
+20000
+Granola Vainilla
+250 grs 
+15000
+Granola Light 
+400 grs  
+8900
+Cereal Muesli
+800 grs 
+6000
+Granola Frutos Rojos 
+300 grs 
+7800
+Granola Almendras y Semillas
+300 grs
+9700
+Granola Manzana y Nueces
+300 grs
+11250
+Granola Premium ChocoAlmendras
+400 grs
+16500
+Granola Vainilla
+400 grs
+9850
+Granola Tradicional
+450 grs
+7600
+SucaRicos Hojuela de Maíz Azucaradas
+170 grs 
+10000
+RikyRicos Hojuela de Maíz Natural
+170 grs
+9950
+Anillos Frutados
+105 grs 
+8950
+ChocoFlupis Cereal de Arroz Achocolatado
+170 grs
+5780 
+Aritos Kokomiel 
+200 grs 
+5000
+Hojuela de Maíz Natural Extruida
+1000 grs 
+4800
+Vitavena Fresa Sin azúcar
+180 grs
+7000
+Vitavena Vainilla Sin azúcar
+180 grs 
+7200
+Vitavena Avena Canadiense
+250 grs
+7500
+Vitavena Avena en Hojuelas 
+250 grs
+5000
+Vitavena Avena más Cebada
+500 grs 
+6000
+Vitavena Avena Molida
+250 grs 
+5980
+InstaSoya 
+250 grs 
+10000
+Zumo de Uva
+500 ml 
+4000
+Zumo de Uva Light
+1000 ml 
+8000
+Snack Dulzura Picante
+35 grs 
+6000
+Snack Hierbas Provenzales
+40 grs
+3890
+Salvado de Trigo
+500 grs 
+6500
+Galletas de Caña
+240 grs 
+3820
+Arroz con Coco
+400 grs 
+3500
+Concentrado de Coco
+125 grs
+7800
+Nueces del Brasil
+500 grs 
+12000
+Almendras
+500 grs
+13000
+Maní Natural
+500 grs 
+11000
+Maní con Uvas Pasas
+500 grs 
+8500
+Almendras con Coco
+500 grs
+12500
